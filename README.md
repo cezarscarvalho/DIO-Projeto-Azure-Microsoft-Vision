@@ -1,4 +1,12 @@
+# 👁️ Azure AI Vision: Análise Inteligente de Imagens
+
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0058AD?style=for-the-badge&logo=microsoft&logoColor=white)]()
+
+Projeto dedicado à aplicação de **Visão Computacional** no Azure. Demonstro como utilizar modelos pré-treinados para detectar objetos, ler textos em imagens (OCR) e gerar descrições automáticas, unindo tecnologia de ponta com usabilidade prática.
+
 # Reconhecimento Facial e Transformação de Imagens em Dados
+
 ## Descubra o passo a passo e Mergulhe fundo num Mundo de Oportunidades Infinitas com a Inteligência Artificial
 
 Iniciaremos acessando o [portal do Azure](https://www.portal.azure.com).
@@ -143,6 +151,28 @@ Nesta foto, o serviço detecta um cachorro sentado em uma cadeira como observado
 # Considerações Finais
 
 Os serviços nos mostram várias formas inclusivas nas quais poderemos inserir em projetos que facilitem a vida de todos. Lembrando sempre da correta utilização dos dados de acordo com normas éticas da utilização da IA.
+
+## 📚 Outros Projetos de IA e Cloud (Microsoft Azure)
+
+Este repositório faz parte da minha trilha de especialização em Inteligência Artificial. Confira outros projetos realizados:
+
+* [**IA Generativa e Copilot**](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-IA-Generativa) - Exploração de modelos de linguagem e prompts.
+* [**Cognitive Search**](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive) - Mineração de conhecimento com busca inteligente.
+* [**Azure Speech**](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Speech) - Reconhecimento de fala e conversão de texto.
+* [**Azure Machine Learning**](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Machine-Learning) - Modelagem de dados preditivos.
+
+---
+
+* [**Contribuição Open Source**](https://github.com/cezarscarvalho/dio-lab-open-source) - Boas práticas de colaboração no GitHub.
+
+
+## ✉️ Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cezar.souza03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezar-de-souza-carvalho-ti/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511988541006)
+
+
 
 
 
